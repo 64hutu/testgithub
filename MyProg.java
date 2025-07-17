@@ -8,7 +8,7 @@ public class MyProg {
 		// Invoke a method on MyHelper class.
 		MyHelper.displayDateTime();
 
-		// Display a goodbye message.
+hddhdbb		// Display a goodbye message.
 		System.out.println("Goodbye from my program.");
 	}
 }
